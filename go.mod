@@ -12,7 +12,7 @@ require (
 	github.com/rs/cors v1.8.2
 	github.com/rs/zerolog v1.28.0
 	github.com/sentinel-official/hub v0.9.3
-	github.com/showwin/speedtest-go v1.3.0
+	github.com/showwin/speedtest-go v1.3.1
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
